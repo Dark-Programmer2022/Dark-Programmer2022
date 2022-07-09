@@ -1,4 +1,4 @@
-<h1 align="center">Hello my gorgeous friend on the internet<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+<h1 align="center">Hello my gorgeous friend on the internet<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />
 , I'm Md. Shakil</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
