@@ -5,6 +5,12 @@
 ![I am GitHub Readme Generator's creator](https://scontent.fdac11-2.fna.fbcdn.net/v/t39.30808-6/272137177_453394906434627_5817980253669872496_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=-Xn078J8-aEAX-TfD6x&tn=Vqq1R85MkYmOyrK9&_nc_ht=scontent.fdac11-2.fna&oh=00_AT8HNbUVVTEPm0IvEZRZhFnl_b7vaCoiWOR54wkS8aWRAg&oe=62CE8D2C)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmer-shakil&label=Profile%20views&color=0e75b6&style=flat" alt="programmer-shakil" /> </p>
 
+<p>I am Md. Shakil. My Dreams are bigger than Google. I always like to learn new things and have experience with new stuff.
+I am trying to be more creative and will come back soon with something unique.
+Love to learn new skills. Now on to learning. Full and fresh hand code is my power. Client satisfaction is my first priority.
+
+I’m a Front End Engineer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with Go, Java, and C++, but some technologies I enjoy working with include C, Python, and JavaScript as well as Kotlin, and Dart.</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmer-shakil" alt="programmer-shakil" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/md_programmer" target="blank"><img src="https://img.shields.io/twitter/follow/md_programmer?logo=twitter&style=for-the-badge" alt="md_programmer" /></a> </p>
