@@ -1,4 +1,5 @@
-<h1 align="center">Hello my gorgeous friend on the internet<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Md. Shakil</h1>
+<h1 align="center">Hello my gorgeous friend on the internet<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+, I'm Md. Shakil</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 ![I am GitHub Readme Generator's creator](https://scontent.fdac11-2.fna.fbcdn.net/v/t39.30808-6/272137177_453394906434627_5817980253669872496_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=-Xn078J8-aEAX-TfD6x&tn=Vqq1R85MkYmOyrK9&_nc_ht=scontent.fdac11-2.fna&oh=00_AT8HNbUVVTEPm0IvEZRZhFnl_b7vaCoiWOR54wkS8aWRAg&oe=62CE8D2C)
