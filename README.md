@@ -61,5 +61,6 @@ I’m a Front End Engineer who is passionate about making error-free websites wi
 
 ![GitHub metrics](https://metrics.lecoq.io/Programmer-Shakil)  
 
-
+<p>Joined GitHub!
+on January 10, 2022</p>
 
